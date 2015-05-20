@@ -1,0 +1,12 @@
+{
+  "generator-backbone": {
+    "appPath": "app",
+    "appName": "TodoApiRails",
+    "coffee": false,
+    "testFramework": "mocha",
+    "templateFramework": "lodash",
+    "sassBootstrap": false,
+    "includeRequireJS": false
+  },
+  "generator-mocha": {}
+}

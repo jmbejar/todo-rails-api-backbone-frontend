@@ -1,0 +1,11 @@
+{
+  "name": "todoapirails",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "underscore": "~1.7.0",
+    "backbone": "~1.1.0",
+    "backbone.localStorage": "~1.1.16"
+  },
+  "devDependencies": {}
+}
