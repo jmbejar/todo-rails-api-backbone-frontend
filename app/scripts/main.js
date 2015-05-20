@@ -40,8 +40,8 @@ $(function(){
     // Reference to this collection's model.
     model: Todo,
 
-    // Save all of the todo items under the `"todos-backbone"` namespace.
-    localStorage: new Backbone.LocalStorage("todos-backbone"),
+    // Set the backend server location
+    url: "http://localhost:3000/todos",
 
     // Filter down the list of all todo items that are finished.
     done: function() {
